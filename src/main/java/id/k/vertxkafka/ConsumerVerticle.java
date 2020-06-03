@@ -1,3 +1,5 @@
+package id.k.vertxkafka;
+
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.json.JsonObject;
 import io.vertx.kafka.client.consumer.KafkaReadStream;

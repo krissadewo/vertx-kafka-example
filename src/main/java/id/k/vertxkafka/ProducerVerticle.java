@@ -1,5 +1,6 @@
+package id.k.vertxkafka;
+
 import io.vertx.core.AbstractVerticle;
-import io.vertx.core.Handler;
 import io.vertx.core.json.JsonObject;
 import io.vertx.core.streams.WriteStream;
 import io.vertx.kafka.client.producer.KafkaWriteStream;
